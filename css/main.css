@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Fira+Sans:wght@900&family=Livvic:ital,wght@0,600;0,700;1,600&family=Nunito+Sans:wght@400;600;700;900&family=Open+Sans:wght@300;400&family=Raleway:wght@400;700&family=Roboto+Mono:wght@400;600&display=swap');
+
+body {
+    font-family: 'alarm clock';
+    background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+    color: gold;
+}
+
+.dmy {
+    margin-top: 200px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 100px;
+    color: gold;
+    text-shadow: 0 0 40px gold; 
+    margin-bottom: 50px;
+}
+
+.clock {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 100px;
+    color: gold;
+    font-family: 'Bungee Spice';
+    text-shadow: 0 0 15px red;
+}    
