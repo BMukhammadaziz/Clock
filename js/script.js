@@ -16,7 +16,7 @@ function timer() {
 
     elDate.textContent = (date < 10) ? '0' + date : date;
     elMonth.textContent = (month < 10) ? (month + 1) : (month + 1);
-    elYear.textContent = (year < 10) ? '0' + year : year;
+    elYear.textContent = year;
     elHour.textContent = (hour < 10) ? '0' + hour : hour;
     elMinute.textContent = (minute < 10) ? '0' + minute : minute;
     elSecond.textContent = (second < 10) ? '0' + second : second;
